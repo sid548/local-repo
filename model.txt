@@ -1,3 +1,4 @@
 This file will contain model params.
 Hyperparameter: learning rate, batch size.
 Architecture: LSTM, GRU, CNN.
+Epoch: 100
