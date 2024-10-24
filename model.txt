@@ -1,1 +1,2 @@
 This file will contain model params.
+Hyperparameter: learning rate, batch size.
